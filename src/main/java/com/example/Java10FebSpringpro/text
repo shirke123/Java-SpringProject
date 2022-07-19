@@ -1,0 +1,13 @@
+*AOP*
+//log create development,and create log special developer.
+//advice -pointcut,afterThrowing
+
+
+//task-1   query task
+//task-2   patient registeration page
+//task-3   student table 10 record saved webservices save,get,get, and quries
+//task-4   table
+
+//gradle and maven project(spring boot)
+//mysql
+//mongodb
